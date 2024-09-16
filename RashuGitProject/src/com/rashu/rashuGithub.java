@@ -6,6 +6,7 @@ public class rashuGithub {
 			// TODO Auto-generated method stub
 	System.out.println("Wel come to the GitHub");
 	System.out.println("Wel come to the GitHub");
+	System.out.println("Hello Rashid");
 
 		}
 
